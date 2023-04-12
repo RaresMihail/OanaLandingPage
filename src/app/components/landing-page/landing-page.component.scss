@@ -1,0 +1,40 @@
+.landing-page {
+  background-image: linear-gradient(to bottom, darkgrey, lightgrey);
+
+  .social-icon {
+    color: #212529;
+  }
+
+  .summary-description {
+    font-size: 21px;
+  }
+
+  .word-highlight {
+    color: #fffacd
+  }
+}
+
+@media (min-width: 1799.98px) {
+  .landing-page {
+    padding-top: 85px;
+    padding-bottom: 84px;
+  }  
+}
+
+@media (min-width: 1199.98px) and (max-width: 1709.98px) { 
+  .summary-description {
+    font-size: 16px;
+  }
+
+  h2 {
+    font-size: 21px;
+  }
+
+  .landing-image-container {
+    max-width: 50%;
+  }
+
+  .landing-text-container {
+    max-width: 50%;
+  }
+}
