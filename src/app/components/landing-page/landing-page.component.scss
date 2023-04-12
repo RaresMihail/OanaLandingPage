@@ -9,6 +9,10 @@
     font-size: 21px;
   }
 
+  h2 {
+    font-size: 32px;
+  }
+
   .word-highlight {
     color: #fffacd
   }
@@ -37,4 +41,14 @@
   .landing-text-container {
     max-width: 50%;
   }
+}
+
+@media (max-width: 360px) {
+  .summary-description {
+    font-size: 12px;
+  }
+
+  h2 {
+    font-size: 18px;
+  } 
 }
