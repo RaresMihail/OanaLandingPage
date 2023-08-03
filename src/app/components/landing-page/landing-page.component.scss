@@ -1,20 +1,15 @@
-.landing-page {
-  background-image: linear-gradient(to bottom, darkgrey, lightgrey);
+.social-icons {
+  justify-content: center;
 
   .social-icon {
-    color: #212529;
-  }
-
-  .word-highlight {
-    color: #fffacd
+    color: #fffacd;
   }
 }
 
 @media (min-width: 1199.98px) {
-  .landing-page {
-    padding-top: 81px;
-    padding-bottom: 80px;
-  }  
+  .social-icons {
+    justify-content: start !important;
+  }
 }
 
 @media (min-width: 1810px) {
@@ -24,6 +19,10 @@
 
   h2 {
     font-size: 32px;
+  }
+
+  .social-icons {
+    justify-content: start !important;
   }
 }
 
@@ -43,6 +42,11 @@
   .landing-text-container {
     max-width: 50%;
   }
+
+  .social-icons {
+    justify-content: start !important;
+  }
+
 }
 
 @media (max-width: 360px) {
@@ -52,5 +56,9 @@
 
   h2 {
     font-size: 18px;
-  } 
+  }
+
+  .social-icons {
+    justify-content: start !important;
+  }
 }

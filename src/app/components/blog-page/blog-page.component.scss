@@ -1,0 +1,13 @@
+.card {
+  border-color: #BDC2BC;
+
+  .card-body {
+    border-top: 1px solid #BDC2BC;
+  }
+}
+
+@media (max-width: 655px) {
+  .blog-container {
+    justify-content: center;
+  }
+}
