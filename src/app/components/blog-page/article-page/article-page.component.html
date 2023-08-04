@@ -1,0 +1,9 @@
+<div *ngIf="article" class="d-flex flex-column">
+  <h2 class="d-flex justify-content-center align-items-center ps-4 pt-4 pb-3">{{ article.title }}</h2>
+  <p *ngFor="let paragraph of article.paragraphs"
+    class="ps-4 pe-3 paragraph">{{ paragraph }}</p>
+</div>
+
+<div *ngIf="!article" class="d-flex justify-content-center align-items-center">
+  <h1 class="error-header">Acest articol nu exista</h1>
+</div>

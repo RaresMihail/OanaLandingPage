@@ -1,8 +1,15 @@
-.card {
-  border-color: #BDC2BC;
+.blog-container {
 
-  .card-body {
-    border-top: 1px solid #BDC2BC;
+  .blog-tile {
+    cursor: pointer;
+
+    .card {
+      border-color: #BDC2BC;
+
+      .card-body {
+        border-top: 1px solid #BDC2BC;
+      }
+    }
   }
 }
 

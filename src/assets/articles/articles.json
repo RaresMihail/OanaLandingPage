@@ -1,0 +1,26 @@
+[
+  {
+    "name": "endocrinologia",
+    "title": "Endocrinologia",
+    "tileTitle": "Ce este Endocrinologia?",
+    "tileDescription": "O ramură a medicinei care se ocupă de studiul glandelor endocrine",
+    "paragraphs": [
+      "Este o ramură a medicinei care se ocupă de studiul glandelor endocrine. Cu toate că de multe ori pacienții se gândesc doar la tiroidă (numită popular “glandă”) atunci când vorbim de glande endocrine ne referim la multe altele precum: hipofiza, pancreasul endocrin, glandele suprarenale, gonadele feminine și masculine.",
+      "Glandele endocrine secretă niște mesageri chimici numiți hormoni, care sunt eliberați în circulația sangvină pentru a transmite mesajul de la o celulă la alta, în diferite părți ale corpului. Hormonii au un rol esențial în desfășurarea proceselor fiziologice precum în reglarea somnului, a apetitului și senzației de sațietate, a creșterii și reglării temperaturii și multe altele.",
+      "Medicul endocrinolog se ocupă de tratarea tulburărilor afecțiunilor ce decurg din perturbarea homeostaziei (funcționării normale) a acestor hormoni."
+    ]
+  },
+  {
+    "name": "vitamina-d",
+    "title": "Vitamina D",
+    "tileTitle": "Ce este Vitamina D?",
+    "tileDescription": "O vitamină liposolubilă, la fel ca și vitaminele A, E și K",
+    "paragraphs": [
+      "Este o vitamină liposolubilă, la fel ca și vitaminele A, E și K. Vitamina D reprezintă denumirea comună a unui grup de 10 compuși, dintre care doar doi au o importanță deosebită pentru organismul uman și anume vitamina D2 numită și ergocalciferol și vitamina D3 numită și colecalciferol.",
+      "Ergocalciferol (vitamina D2) este sintetizată în mici cantități de către fungi și plante sub acțiunea luminii solare. Deseori este folosit pentru a ajuta la fortifierea laptelui și cerealelor.",
+      "Colecalciferol (vitamina D3) se sintetizează la nivelul pielii prin expunerea la radiații ultraviolete (UV), dar se găsește și în anumite produse de origine animală.",
+      "Cu cât indicele UV este mai redus în sezonul rece (toamnă, iarnă), cu atât mai mult crește riscul de a avea carențe (deficit de vitamina D). După ce se absoarbe la nivel cutanat, vitamina D suferă un proces de activare la nivel hepatic (hidroxilare în poziția 25 -> 25-hidroxicolecalciferol) și la nivel renal (hidroxilare în poziția 1 -> 1,25-hidroxicolecalciferol). Acest proces de activare este esențial pentru ca vitamina D3 să fie funcțională în întregul organism.",
+      "Vitamina D3 are numeroase roluri în organism: ajută la menținerea echilibrului metabolismului fosfo-calcic și formarea sistemului osos (împreună cu un alți hormoni: PTH, FGF23 dar și calciu și fosfor), menține structura musculaturii scheletice și susține sistemul imunitar, ajută la prevenirea unor afecțiuni maligne, are rol adjuvant al tratamentului în anumite afecțiuni degenerative."
+    ]
+  }
+]
